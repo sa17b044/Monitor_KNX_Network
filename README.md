@@ -2,7 +2,7 @@
 
 ## Node js installation 
 
-cd Full-Stack-Web-App/server
+cd ../server
 
 npm install
 
@@ -10,7 +10,7 @@ node src/app.js
 
 ## Vue js installation
 
-cd Full-Stack-Web-App/client
+cd ../client
 
 npm install
 
